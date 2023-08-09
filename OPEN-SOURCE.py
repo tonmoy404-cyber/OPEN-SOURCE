@@ -54,6 +54,7 @@ def line():
 BDX=f"{W}BD SIM CODE : {G}017 015 018 019 013 016{E}{W}"
 INDX=f"{W}IND SIM CODE : {G}9670 9725 8948 8795 6383{E}{W}"
 PAKX=f"{W}PAK SIM CODE : {G}0306 0315 0335 0345 0318{E}{W}"
+LIMITX=f"EXAMPLE : {G}1000{W},{G}5000{W},{G}10000{W},{G}15000{W},{G}20000{W}"
 ############------[ A SYS ]------#########
 CPG=f"[{G}+{W}] Do you went show cp account (y/n)"
 CKIG=f"[{G}+{W}] Do you went show cookie (y/n)"
