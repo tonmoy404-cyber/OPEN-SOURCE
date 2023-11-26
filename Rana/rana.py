@@ -1,4 +1,12 @@
-#RANA NADEEM RAJPUT
+
+"""
+#===--------------------------[-------]--------------------------===#
+FUCK BY TKM T O N M O Y
+GITHUB : tonmoy404-cyber
+FACEBOOK : David Oliver
+Whatapp : +8801766804626
+#===--------------------------[-------]--------------------------===#
+"""
 #<<_________[ IMPORTING MODULES ]_________>>#
 import os,requests,json,time,re,random,sys,uuid,string,subprocess,zlib,platform
 import marshal
