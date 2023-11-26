@@ -1,7 +1,7 @@
 
 """
 #===--------------------------[-------]--------------------------===#
-FUCK BY TKM T O N M O Y
+FUCKED BY TKM T O N M O Y
 GITHUB : tonmoy404-cyber
 FACEBOOK : David Oliver
 Whatapp : +8801766804626
